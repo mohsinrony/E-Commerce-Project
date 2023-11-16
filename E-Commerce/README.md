@@ -1,8 +1,22 @@
 # React + Vite
 
+blue-sweaters
+blue-sweaters
 ## Third meeting created the repo for the group project.
 
 ### this is pull request.
+=======
+Mohsin hello
+>> main
+=======
+ Luke
+Hello Mohsin
+
+More changes
+=======
+Mohsin hello
+ main
+ main
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
