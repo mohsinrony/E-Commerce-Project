@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -15,7 +15,7 @@
 }
 
 a {
-  font-weight: 500;
+  font-weight: 400;
   color: #646cff;
   text-decoration: inherit;
 }
@@ -25,10 +25,11 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  height: 1500px;
+  /* display: flex;
+  place-items: center; */
+ /*  min-width: 320px;
+  min-height: 100vh; */
 }
 
 h1 {
