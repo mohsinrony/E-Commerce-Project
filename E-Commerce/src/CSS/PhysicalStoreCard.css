@@ -1,0 +1,47 @@
+/* .Stores-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 10px 5px blueviolet;
+  font-size: 0.8rem;
+} */
+/* Example CSS styles for PhysicalStoreCard component */
+
+.Stores-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+ 
+  box-shadow: 10px 10px 5px blueviolet;
+  width: 350px;
+}
+
+.Stores-card h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.Stores-card ul {
+  list-style: none;
+/*   padding: 0;
+  margin: 0;
+} */
+
+/* .Stores-card ul li {
+  font-size: 16px;
+  margin-bottom: 5px;
+  
+}
+
+
+.locationImage {
+  flex: 0 0 auto; /
+}
+
+
+.locationImage img {
+  width: 50px; 
+  height: auto;
+ 
+}  */
