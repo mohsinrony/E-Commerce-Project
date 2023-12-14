@@ -2,7 +2,20 @@
   padding: 0;
 }
 body {
-  background-color: red;
+  background-color: #2a4cc6;
+} /* 
+.CustomerCareCard,
+.CategoriesCard,
+.PhysicalStoreCard,
+.OffersPaymentCards {
+  display: inline-block;
+} */
+.components {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  overflow: hidden;
 }
 .footer {
   display: flex;
@@ -27,6 +40,7 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+  overflow-x: hidden;
 }
 
 .delivery,

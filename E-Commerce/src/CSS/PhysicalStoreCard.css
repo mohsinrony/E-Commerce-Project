@@ -9,11 +9,11 @@
 
 .Stores-card {
   display: flex;
-  justify-content: center;
+  justify-content: space space-evenly;
   align-items: center;
   padding: 20px;
  
-  box-shadow: 10px 10px 5px blueviolet;
+ /*  box-shadow: 10px 10px 5px blueviolet; */
   width: 350px;
 }
 

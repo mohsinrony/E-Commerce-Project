@@ -16,24 +16,32 @@ const Footer = () => {
     <>
       <div className="footer">
         <div className="components">
-          <CustomerCareCard
-            heading="Customer Care"
-            l1="Help center"
-            l2="How to buys"
-            l3="Return & Refund"
-            l4="Contact us"
-          />
-          <CategoriesCard
-            heading="All Categories"
-            l1="About Blue Sweaters"
-            l2="Careers"
-            l3="Blogs"
-            l4="Term and Conditions"
-            l5="Privacy Policy"
-            l6="More About Us"
-          />
-          <PhysicalStoreCard />
-          <OffersPaymentCards heading="Exclusive Offers" />
+          <div>
+            <CustomerCareCard
+              heading="Customer Care"
+              l1="Help center"
+              l2="How to buys"
+              l3="Return & Refund"
+              l4="Contact us"
+            />
+          </div>
+          <div>
+            <CategoriesCard
+              heading="All Categories"
+              l1="About Blue Sweaters"
+              l2="Careers"
+              l3="Blogs"
+              l4="Term and Conditions"
+              l5="Privacy Policy"
+              l6="More About Us"
+            />
+          </div>
+          <div>
+            <PhysicalStoreCard />
+          </div>
+          <div>
+            <OffersPaymentCards heading="Exclusive Offers" />
+          </div>
         </div>
         <div className="last-part-footer">
           <div className="slogans">
